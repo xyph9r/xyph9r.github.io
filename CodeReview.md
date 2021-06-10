@@ -10,6 +10,7 @@ using numbers 1 to 9 to fill the empty cells. Once every configuration is found 
 number 1 to 9 check to see if the matrix is safe or not.
 
 **Category Two: Algorithms and Data Structures**
+
 For this category, I have chosen to enhance my Sudoku Solver from the previous alogrithm to a more advanced backtracking 
 alogrithm. This code will be written in the Java programming language as well. The backtracking algorithm that I will be
 implementing allows for us to assign numbers one by one to empty cells. But before we assign these numbers we check to see
