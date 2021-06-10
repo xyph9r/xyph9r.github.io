@@ -23,7 +23,7 @@ Overall, these artifacts represent one project but they are different in how the
 I have not had a job but I am very eager to prove to the industry that I have what it takes by using these skills that I have learned throughout this program to be a greater work and co-woker to those around me. Right now, my career plans are up in the air but, I am constantly looking at job opportunities that interest me. I just do not have anything concrete set for when I finish college. The most likely outcome is that I'll find a job in this field of some sort even if it is not the initial job I would like. I will work my way up and eventually be able to do whatever it is I feel like I would enjoy doing.  
 
 **Porfolio Links**<br>
-* [Professional Self-Assessment](https://xyph9r.github.io//index.html)<br>
+* [Professional Self-Assessment](https://xyph9r.github.io/index.html)<br>
 * [Refinement Plan & Code Review](https://xyph9r.github.io/CodeReview.html)<br>
 * [Enhancement One](https://xyph9r.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://xyph9r.github.io/EnhancementTwo.html)<br>
