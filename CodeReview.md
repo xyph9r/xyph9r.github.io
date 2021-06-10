@@ -6,7 +6,7 @@
 
 For this category, I have chosen to work with a Sudoku Solver. I am trasnferring this code from C++ to C. This artifact is code written in C code which will solve a sudoku solver using a straight forward algorithm. The approach is to generate all possible configuration 
 using numbers 1 to 9 to fill the empty cells. Once every configuration is found and all the positions are filled with a 
-number 1 to 9 check to see if the matrix is safe or not.
+number 1 to 9 check to see if the matrix is safe or not. Note within the code review it says C++ to Java this was changed due to circumstance that occured within the course.
 
 **Category Two: Algorithms and Data Structures**
 
@@ -24,7 +24,7 @@ For this category, I have chosen to make a Javascript/HTML version of my Sudoku 
 template for the Sudoku Solver with the initial board displaying on the left side and the answer on the right side once you
 click the button. Within the Javascript I have included multiple boards with one that is impossible to solve as well. This
 Javascript board is a lot simpler in terms of the way it operates it is more like the C++ at the beginning in terms of 
-algorithm displayed in the code review. 
+algorithm displayed in the code review. I ended up scrapping the inital idea in the code review for this enhancement because I could not figure out how to take this route so I had to think of an alternative and this is what I ended up with.
 
 **Code Review**
 <div align="center">
