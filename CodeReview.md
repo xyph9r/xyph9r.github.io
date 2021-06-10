@@ -25,7 +25,7 @@ For this category, I have chosen to make a Javascript/HTML version of my Sudoku 
 template for the Sudoku Solver with the initial board displaying on the left side and the answer on the right side once you
 click the button. Within the Javascript I have included multiple boards with one that is impossible to solve as well. This
 Javascript board is a lot simpler in terms of the way it operates it is more like the C++ at the beginning in terms of 
-algorithm. 
+algorithm displayed in the code review. 
 
 **Code Review**
 <div align="center">
