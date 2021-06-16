@@ -17,7 +17,7 @@ I am glad I was able to push through the roadblocks and come out with an outcome
 
 **Link to Repository**
 
-[Enhancement Three Repository](https://xyph9r.github.io/Databases)
+[Enhancement Three Repository](https://github.com/xyph9r/Databases)
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://xyph9r.github.io/index.html)<br>
