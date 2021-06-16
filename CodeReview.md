@@ -42,5 +42,5 @@ algorithm displayed in the code review. I ended up scrapping the inital idea in 
 * [Professional Self-Assessment](https://xyph9r.github.io//index.html)<br>
 * [Refinement Plan & Code Review](https://xyph9r.github.io/CodeReview.html)<br>
 * [Enhancement One](https://xyph9r.github.io/Enhancements/EnhancementOne.html)<br>
-* [Enhancement Two](https://xyph9r.github.io/Enhancements/EnhancementTwo.html)<br>
+* [Enhancement Two](https://xyph9r.github.io/Enhancement/EnhancementTwo.html)<br>
 * [Enhancement Three](https://xyph9r.github.io/Enhancements/EnhancementThree.html)
