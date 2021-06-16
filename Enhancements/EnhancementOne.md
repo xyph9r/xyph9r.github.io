@@ -19,7 +19,7 @@ issues.
 
 **Link to Repository**
 
-[Enhancement One Repository](https://xyph9r.github.io/Software-Engineering-Design)
+[Enhancement One Repository](https://github.com/xyph9r/Software-Engineering-Design)
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://xyph9r.github.io/index.html)<br>
