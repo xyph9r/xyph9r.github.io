@@ -18,7 +18,7 @@ output that I was expecting.
 
 **Link to Repository**
 
-[Enhancement Two Repository](https://xyph9r.github.io/Data-Structures-Algorithms)
+[Enhancement Two Repository](https://github.com/xyph9r/Data-Structures-Algorithms)
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://xyph9r.github.io/index.html)<br>
