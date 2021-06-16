@@ -24,4 +24,4 @@ I am glad I was able to push through the roadblocks and come out with an outcome
 * [Refinement Plan & Code Review](https://xyph9r.github.io/CodeReview.html)<br>
 * [Enhancement One](https://xyph9r.github.io/Enhancements/EnhancementOne.html)<br>
 * [Enhancement Two](https://xyph9r.github.io/Enhancements/EnhancementTwo.html)<br>
-* [Enhancement Three](https://xyph9r.github.io//EnhancementThree.html)
+* [Enhancement Three](https://xyph9r.github.io/Enhancements/EnhancementThree.html)
