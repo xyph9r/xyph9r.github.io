@@ -12,9 +12,8 @@ I also chose this artifact because I knew it would be a more challenging one sin
 enhacement using HTML which I have not enjoyed since I started learning about it in middle school. 
 
 This enhancement took me the most time out of all the other ones due to me not fully understanding exactly what it was I needed to do in this enhancement. I had started out trying to work
-with mongoDB to find a way to create a Sudoku Solver or do anything with the Sudoku Solver but I ended up falling short. I had to brainstorm what I could do next then I saw in the project 
-that we could use JavaScript/HTML so I decided to go down this route. Depsite the frustrations that I encountered throughout this enhancement I believe that it turned out really well and
-I am glad I was able to push through the roadblocks and come out with an outcome. 
+with mongoDB to find a way to create a Sudoku Solver or do anything with the Sudoku Solver but I ended up falling short. I had to brainstorm what I could do next so I went back
+to review the requirements and I saw in the project that we could use JavaScript/HTML so I decided to go down this route. Depsite the frustrations that I encountered throughout this enhancement I believe that it turned out really well and I am glad I was able to push through the roadblocks and come out with an outcome. 
 
 **Link to Repository**
 
