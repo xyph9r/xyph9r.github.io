@@ -4,7 +4,7 @@
 
 **Category One: Software Engineering/Design**
 
-For this category, I have chosen to work with a Sudoku Solver. I am trasnferring this code from C++ to C. This artifact is code written in C code which will solve a sudoku solver using a straight forward algorithm. The approach is to generate all possible configuration 
+For this category, I have chosen to work with a Sudoku Solver. I am trasnferring this code from C++ to C. This artifact is code written in C code which will solve a Sudoku Solver using a straight forward algorithm. The approach is to generate all possible configuration 
 using numbers 1 to 9 to fill the empty cells. Once every configuration is found and all the positions are filled with a 
 number 1 to 9 check to see if the matrix is safe or not. Note within the code review it says C++ to Java this was changed due to circumstance that occured within the course.
 
