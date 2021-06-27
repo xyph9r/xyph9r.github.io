@@ -1,9 +1,9 @@
 ## Enhancement Two: Data Structures & Algorithms
 
-The artifact that I chose for the Algorithms and and Data Sctructure enhancement was a Sudoku Solver in the Java programming language with a different algorithm than the 
+The artifact that I chose for the Algorithms and Data Structure enhancement was a Sudoku Solver in the Java programming language with a different algorithm than the 
 previous enhancement. The backtracking algorithm that I will be implementing allows for us to assign numbers one by one to empty cells. But before we assign these numbers we check to see
 if it is safe to assign them. Check to make sure the same number is not present in the current row or column or the current
-3x3 subgrid. Once we check for safety we can assign the number and recursively check if the assignment leads to a soution. 
+3x3 subgrid. Once we check for safety we can assign the number and recursively check if the assignment leads to a solution. 
 If the assignement does not lead to a solution we try the next number for the empty cell. If no numbers (1 to 9) lead to a 
 solution then return false and print no solution exists.
 
